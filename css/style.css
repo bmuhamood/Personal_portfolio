@@ -6,6 +6,12 @@
   }
   
   body {
+    background-color: whitesmoke;
     height: 100%;
     width: 100%;
+  }
+
+  .nav-link {
+    display: flex;
+    justify-content: flex-end;
   }
