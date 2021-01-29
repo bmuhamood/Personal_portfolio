@@ -17,7 +17,7 @@ This project consistent some of the details of my work. It display the samples o
 - Linkedin: [Bbosa Muhamood](https://www.linkedin.com/in/bbosa-muhamood-06845576)
 
 ## Live version
-https://angry-haibt-4efacc.netlify.app/
+https://heuristic-einstein-a28b80.netlify.app/
 
 ### Acknowledgments
 Appreciate the teams at Google Font's API, helps coding amazing webpages faster. Also an acknowledgment to Microverse for pushing us further to increase our knowledge.
